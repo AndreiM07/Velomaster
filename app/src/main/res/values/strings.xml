@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VeloMasterLSK</string>
+    <string name="Info">О компании</string>
+    <string name="spare_part">Запчасти</string>
+    <string name="services">Услуги</string>
+    <string name="product">Товары</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Contacts">Контакты</string>
+    <string name="InfoContacts">+79507766681 Станислав \n Instagram: @stas.velomaster \n г.Лиски, ул.Свердлова,45</string>
+    <string name="More_detailed">Подробнее</string>
+    <string name="veloStas">V</string>
+    <string name="stas">stas</string>
+</resources>

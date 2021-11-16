@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/company_info"
+        android:title="@string/Contacts"
+        android:icon="@drawable/ic_baseline_info" />
+
+
+    <item
+        android:id="@+id/spare_part"
+        android:title="@string/spare_part"
+        android:icon="@drawable/ic_baseline_miscellaneous_services_24" />
+
+    <item
+        android:id="@+id/services"
+        android:title="@string/services"
+        android:icon="@drawable/ic_baseline_plumbing" />
+
+    <item
+        android:id="@+id/product"
+        android:title="@string/product"
+        android:icon="@drawable/ic_baseline_directions_bike_24" />
+
+
+
+
+</menu>
